@@ -16,3 +16,6 @@ Martínez-deMiguel, C., Segura-Bedmar, I., Chacón-Solano, E., & Guerrero-Aspizu
 
 Segura-Bedmar, I., Camino-Perdones, D., & Guerrero-Aspizua, S. (2022). Exploring deep learning methods for recognizing rare diseases and their clinical manifestations from texts. BMC bioinformatics, 23(1), 263.
 
+## Funding
+This work is part of the R&D&i ACCESS2MEET (PID2020-116527RB-I0) project financed by MCIN AEI/10.13039/501100011033/
+
